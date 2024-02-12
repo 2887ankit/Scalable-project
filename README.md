@@ -3,8 +3,11 @@ This project was completed under the Scalable module of Cloud Computing at Natio
 Prerequisite:
 
 Install Linux
+
 Install Hadoop
+
 Install PySpark
+
 Install matplotlib
 
 Steps to re-run my code:
